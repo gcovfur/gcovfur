@@ -1,6 +1,11 @@
-### Hi there, I'm Gabriel 👋
+<h3 align="left"> Hi there, I'm Gabriel 👋 </3>
 
 <h3 align="left">About me:</h3>
+
+<p align="left">
+  - 🔭 I’m currently working on my Ph.D thesis.
+  - 🌱 I’m currently learning about Artificial Intelligence.
+</p>
 
 <p align="left">
   💼 Used languages: <strong>Python, Java, C.</strong>
@@ -22,10 +27,6 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcovellofurlanetto/?locale=en_US" /></a>
 </p>  
 
-<p align="left">
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gcovfur.visitor-badge&left_text=My%20Page%20Visitors)
-</p>
-
 <!--
 **gcovfur/gcovfur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,7 +41,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcovfur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
