@@ -3,13 +3,6 @@
 <h3 align="center">About me:</h3>
 
 <p align="center">
-  <a href="https://github.com/gcovfur">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
   <a href="https://www.linkedin.com/in/gabrielcovellofurlanetto/">
     <img
          align="center"
