@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:name@email.com">gcovfur@gmail.com
+  <a href="mailto:gcovfur@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gcovfur@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/gabrielcovellofurlanetto/?locale=en_US" alt="Linkedin">
