@@ -4,15 +4,18 @@
 
 <p align="left">
   - 🔭 I’m currently working on my Ph.D thesis.
-  - 🌱 I’m currently learning about Artificial Intelligence.
 </p>
 
 <p align="left">
-  💼 Used languages: <strong>Python, Java, C.</strong>
+- 🌱 I’m currently learning about Artificial Intelligence.
+</p>
+  
+<p align="left">
+  💼 Mainly used languages: <strong>Python, Java, C, Latex.</strong>
 </p>
 
 <p align="left">
-  💼 Used tools: <strong>Pentaho, Talend, SQL, Excel.</strong>
+  💼 Mainly used tools: <strong>Pentaho, Talend, SQL, Excel.</strong>
 </p>
 
 <p align="left">
@@ -20,10 +23,10 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="gcovfur@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gcovfur@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/gabrielcovellofurlanetto/?locale=en_US" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcovellofurlanetto/?locale=en_US" /></a>
 </p>  
 
