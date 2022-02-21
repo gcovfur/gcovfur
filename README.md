@@ -1,18 +1,30 @@
 ### Hi there, I'm Gabriel 👋
 
-<h3 align="center">About me:</h3>
+<h3 align="left">About me:</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabrielcovellofurlanetto/">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
-  </a>
+<p align="left">
+  💼 Used languages: <strong>Python, Java, C.</strong>
 </p>
-</details>
 
+<p align="left">
+  💼 Used tools: <strong>Pentaho, Talend, SQL, Excel.</strong>
+</p>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
+<p align="left">
+  Conctacts and social media: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gcovfur@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcovellofurlanetto/?locale=en_US" /></a>
+</p>  
+
+<p align="left">
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gcovfur.visitor-badge&left_text=My%20Page%20Visitors)
+</p>
 
 <!--
 **gcovfur/gcovfur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
