@@ -1,4 +1,4 @@
-<h3 align="left"> Hi there, I'm Gabriel 👋 </3>
+<h3 align="left"> Hi there, I'm Gabriel 👋 </h3>
 
 <h3 align="left">About me:</h3>
 
